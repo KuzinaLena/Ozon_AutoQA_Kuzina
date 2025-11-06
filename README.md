@@ -1,1 +1,8 @@
-# Ozon_AutoQA_Kuzina
+## Описание
+Данный проект содержит функцию, позволяющую вывести данные о самом высоком супергерое по заданным критериям (пол и наличие работы). Данные о всех героях представлены в формате json-файла по ссылке: https://github.com/akabab/superhero-api/blob/master/api/all.json
+
+## Запуск проекта
+1. Установить необходимые библиотеки и модули:
+`pip install -r requirements.txt`.
+2. Запустить unit-тесты:
+ `python -m unittest Heroes_test.py`.
