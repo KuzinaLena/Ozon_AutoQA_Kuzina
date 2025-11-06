@@ -3,6 +3,6 @@
 
 ## Запуск проекта
 1. Установить необходимые библиотеки и модули:
-`pip install -r requirements.txt`.
+`pip install -r Requirements.txt`.
 2. Запустить unit-тесты:
  `python -m unittest Heroes_test.py`.
